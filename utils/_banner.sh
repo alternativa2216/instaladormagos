@@ -22,14 +22,8 @@ print_banner() {
 
   printf "\n\n"
   printf "${GREEN}";
-  printf "                 ████████   ██    ██   ████████   ████████   ████████   ████████    ████████   ████████   ██                \n";
-  printf "                 ██         ██    ██   ██    ██   ██         ███   ██        ██     ██    ██   ██    ██   ██         \n";
-  printf "                 ████████   ██    ██   ████████   ██████     ███ ██         ██      ████████   ████████   ██            \n";
-  printf "                       ██   ██    ██   ██         ██         ███   ██     ██        ██    ██   ██         ██      \n";
-  printf "                 ████████   ████████   ██         ████████   ███   ██   █████████   ██    ██   ██         ██        \n";
-  printf "                                                                                                              \n";
-  printf "                               SUPERZAPI - SISTEMA DE MULTIATENDIMENTO                                \n";
-  printf "                                        www.superzapi.com                                        \n";
+  printf "                               Magos Chat - SISTEMA DE MULTIATENDIMENTO                                \n";
+  printf "                                       Instalador Automatico                                        \n";
   printf "\n"
  
   printf "${NC}";
